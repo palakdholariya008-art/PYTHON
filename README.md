@@ -19,5 +19,7 @@ Welcome to my repository where I track my daily progress learning Python!
 ### 📂 Day 4: Advanced String Manipulation
 * [String Methods](string.py) - Exploring built-in string functions and manipulations.
 
+### 📂 Day 5: String operations 
+* [String Operations](string_operations.py) - Learning about Python string operations.
 ---
 *Last updated: June 2026*
