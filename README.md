@@ -21,5 +21,8 @@ Welcome to my repository where I track my daily progress learning Python!
 
 ### 📂 Day 5: String operations 
 * [String Operations](string_operations.py) - Learning about Python string operations.
+### 📂 Day 6: Introduction to Lists
+* [Lists](list.py) - Understanding Python lists, indexing, and basic list methods.
+
 ---
 *Last updated: June 2026*
