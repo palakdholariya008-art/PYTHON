@@ -24,6 +24,6 @@ Welcome to my repository where I track my daily progress learning Python!
 ### 📂 Day 6: Introduction to Lists
 * [Lists](list.py) - Understanding Python lists, indexing, and basic list methods.
 ### 📂 Day 7: List Operations
-* [List Operations](list operation.py) - Working with list slicing, concatenation, and advanced list manipulations.
+* [List Operations](list%20operation.py) - Working with list slicing, concatenation, and advanced list manipulations.
 ---
 *Last updated: June 2026*
