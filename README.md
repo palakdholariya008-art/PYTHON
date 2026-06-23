@@ -23,6 +23,7 @@ Welcome to my repository where I track my daily progress learning Python!
 * [String Operations](string_operations.py) - Learning about Python string operations.
 ### 📂 Day 6: Introduction to Lists
 * [Lists](list.py) - Understanding Python lists, indexing, and basic list methods.
-
+### 📂 Day 7: List Operations
+* [List Operations](list operation.py) - Working with list slicing, concatenation, and advanced list manipulations.
 ---
 *Last updated: June 2026*
